@@ -1,5 +1,7 @@
-# ===================== ai-practice/chat_server.py ======================
-# 基于DeepSeek-R1-Distill-Qwen-1 5B模型的GPU加速对话服务,使用Gradio搭建简易界面
+# 本地部署大模型
+# 模型：DeepSeek-R1-Distill-Qwen-1 5B
+# 加速方式：GPU
+# 图形界面：Gradio
 import os
 import torch
 import gradio as gr
